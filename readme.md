@@ -9,6 +9,6 @@
 ![This is just a message](the image link goes here)
 
 
-*This is list one
- *This is an indentation
+* This is list one
+ * This is an indentation
  
